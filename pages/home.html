@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home Page</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body class="body">
+    <div class="appName">
+        <h1>MY READS</h1>
+    </div>
+    <div class="navigation">
+        <div class="section">
+            <a href="#body">Home</a>
+        </div>
+        <div class="search">
+            <form onsubmit="searchBooks(event)">
+                <input type="text" class="searchBox" placeholder="Search books">
+                <input type="submit" class="submit" value="Go">
+            </form>
+        </div>
+        <div class="section">
+            <a href="#cart">Cart</a>
+        </div>
+    </div>
+
+    <div class="books-container">
+        <div class="category educational">
+            <h2>Educational</h2>
+        </div>
+        <div class="category motivational">
+            <h2>Motivational</h2>
+        </div>
+        <div class="category kids">
+            <h2>Kids</h2>
+        </div>
+        <div class="category sports">
+            <h2>Sports</h2>
+        </div>
+    </div>
+    <h3>cart</h3>
+    <div class="cart-container">
+
+    </div>
+
+    <script src="../js/index.js"></script>
+</body>
+</html>
+

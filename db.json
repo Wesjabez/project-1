@@ -1,0 +1,316 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The audacity of hope",
+        "author": "Barrack Obama",
+        "description": "“The Audacity of Hope” is a book by Barack Obama that lays out his views on how to heal America/'s political divide",
+        "price": 3000,
+        "category": "motivational",
+        "searchKeywords": ["The audacity of hope", "Barrack Obama", "motivational"],
+        "imageUrl": "https://images.penguinrandomhouse.com/cover/700jpg/9780739334096"
+      },
+      {
+        "id": 2,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "description": "“Atomic Habits” is a book by James Clear that shows you how to break bad habits and form good ones in four steps",
+        "price": 2576,
+        "category": "Business",
+        "searchKeywords": ["Atomic Habits", "James Clear", "Business"],
+        "imageUrl": ""
+      },
+      
+      {
+        "id": 3,
+        "title": "Blink",
+        "author": "Malcom Gladwell",
+        "description": "“Blink” is a book by Malcolm Gladwell that explores how snap judgments, or rapid cognition, can be accurate and insightful, as well as distorted and misled.",
+        "price": 4000,
+        "category": "Business",
+        "searchKeywords": ["Blink", "Malcom Gladwell", "Business"],
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440763417i/40102.jpg"
+      },
+      {
+        "id": 4,
+        "title": "chillprenuer",
+        "author": "Denise Duffield",
+        "description": "Description of Book 100",
+        "price": 3500,
+        "category": "Business",
+        "searchKeywords": ["Chillprenuer", "Denise Duffield", "Business"],
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544444159l/40313664.jpg"
+      },
+       {
+        "id": 5,
+        "title": "Company of One",
+        "author": "Paul Javis",
+        "description": "“Company of One” is a book by Paul Jarvis that challenges the traditional idea that growth is the only way to success.",
+        "price": 1000,
+        "category": "Business",
+        "searchKeywords": ["Company of One", "Paul Javis", "Business"],
+        "imageUrl": ""
+      },
+       {
+        "id": 6,
+        "title": "Start Now",
+        "author": "Jim collins",
+        "description": "Description of Book 100",
+        "price": 1566,
+        "category": "Business",
+        "searchKeywords": ["Start Now", "Jim collins", "Business"],
+        "imageUrl": "https://example.com/book100.jpg"
+      },
+       {
+        "id": 7,
+        "title": "Influence",
+        "author": "Robert Cialdini",
+        "description": "“Influence” is a book by Robert Cialdini that explores the psychology of persuasion and how to influence people",
+        "price": 2185,
+        "category": "Business",
+        "searchKeywords": ["Influence", "Robert Cialdini", "Business"],
+        "imageUrl": "https://m.media-amazon.com/images/I/51Zco4FJgaL.jpg"
+      },
+       {
+        "id": 8,
+        "title": "Mindset",
+        "author": "Carol Dweck",
+        "description": "“Mindset” is a book by Carol Dweck that explores the psychology of success and how to develop a growth mindset",
+        "price": 3200,
+        "category": "Business",
+        "searchKeywords": ["Mindset", "Carol Dweck", "Business"],
+        "imageUrl": "https://m.media-amazon.com/images/I/81I68HH7a2L._AC_UF1000,1000_QL80_.jpg"
+      },
+       {
+        "id": 9,
+        "title": "The Year We Learned to Fly",
+        "author": "Jacqueline Woodson",
+        "description": "",
+        "price": 2574,
+        "category": "Kids",
+        "searchKeywords": ["The Year We Learned to Fly", "Jacqueline Woodson", "Kids"],
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630699109i/58586873.jpg"
+      },
+       {
+        "id": 10,
+        "title": "Nigel and the Moon",
+        "author": "Antwan Eady",
+        "description": "",
+        "price": 2664,
+        "category": "Kids",
+        "searchKeywords": ["Nigel and the Moon", "Antwan Eady", "Kids"],
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624494256i/55301384.jpg"
+      },
+       {
+        "id": 11,
+        "title": "Odder",
+        "author": "Katherine Applegate",
+        "description": "",
+        "price": 2664,
+        "category": "Kids",
+        "searchKeywords": ["Odder", "Katherine Applegate", "Kids"],
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653947850l/59251239.jpg"
+      },
+       {
+        "id": 12,
+        "title": "Diary of a Wimpy Kid: Diper Överlöde",
+        "author": "Jeff Kinney",
+        "description": " The book follows the Heffley family as they go on a tropical vacation and encounter various challenges and adventures.",
+        "price": 4000,
+        "category": "Kids",
+        "searchKeywords": ["Diary of a Wimpy Kid: Diper Överlöde", "Jeff Kinney", "Kids"],
+        "imageUrl": "https://m.media-amazon.com/images/I/91OLg1nFeqL.jpg"
+      },
+       {
+        "id": 13,
+        "title": "Farmhouse",
+        "author": "Sophie Blackall",
+        "description": "",
+        "price": 2345,
+        "category": "Kids",
+        "searchKeywords": ["Farmhouse", "Sophie Blackall", "Kids"],
+        "imageUrl": "https://www.hachettebookgroup.com/wp-content/uploads/2022/01/9780316528948.jpg?fit=2599%2C2600"
+      },
+       {
+        "id": 14,
+        "title": "Sir Ladybug",
+        "author": "Correy Tabor",
+        "description": "",
+        "price": 453,
+        "category": "Kids",
+        "searchKeywords": ["Sir Ladybug", "Correy Tabor", "Kids"],
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780063069060_35970fb3-bbb6-4d6c-a9bc-14916953d5ac.jpg?v=1686824566&width=350"
+      } ,
+      {
+        "id": 15,
+        "title": "Beauty Woke",
+        "author": "Ramos.N",
+        "description": "",
+        "price": 964,
+        "category": "Kids",
+        "searchKeywords": ["Beauty Woke", "Ramos.N", "Kids"],
+        "imageUrl": "https://example.com/book100.jpg"
+      },
+      {
+        "id": 16,
+        "title": "7 Habits of Highly Effective People",
+        "author": "Stephen Covey",
+        "description": "“7 Habits of Highly Effective People” is a book by Stephen Covey that provides a framework for personal and professional success.",
+        "price": 1003,
+        "category": "motivational",
+        "searchKeywords": ["Book 100", "Author 100", "motivational"],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/The_7_Habits_of_Highly_Effective_People.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Make Your Bed",
+        "author": "William H",
+        "description": "“Make Your Bed” is a book by Admiral William H. McRaven that provides life lessons from his experiences as a Navy SEAL",
+        "price": 3454,
+        "category": "motivational",
+        "searchKeywords": ["Book 100", "Author 100", "motivational"],
+        "imageUrl": "https://example.com/book100.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Range",
+        "author": "David Epstein",
+        "description": "“Range” is a book by David Epstein that argues that generalists are more successful than specialists in today’s world",
+        "price": 2645,
+        "category": "educational",
+        "searchKeywords": ["Book 100", "Author 100", "educational"],
+        "imageUrl": "https://images.penguinrandomhouse.com/cover/9780735214484"
+      },
+      {
+        "id": 19,
+        "title": "The Perfect Pass",
+        "author": "Gwynne",
+        "description": "“The Perfect Pass” is a book by S.C. Gwynne that tells the story of Hal Mumme and Mike Leach, two football coaches who revolutionized the game",
+        "price": 1643,
+        "category": "sports",
+        "searchKeywords": ["Book 100", "Author 100", "sports"],
+        "imageUrl": "https://static01.nyt.com/images/2016/10/25/sports/25SPORTSBOOKSweb/25SPORTSBOOKSweb-superJumbo.jpg"
+      },
+      {
+        "id": 20,
+        "title": "Courage to Soar",
+        "author": "Simone Biles",
+        "description": "“Courage to Soar” is a book by Simone Biles that tells the story of her life and career as a gymnast",
+        "price": 1244,
+        "category": "sports",
+        "searchKeywords": ["Book 100", "Author 100", "sports"],
+        "imageUrl": "https://static01.nyt.com/images/2016/12/14/sports/14-Y-SPORTSBOOKS/14-Y-SPORTSBOOKS-superJumbo-v3.jpg"
+      },
+      {
+        "id": 21,
+        "title": "The Secret Game",
+        "author": "Scott Ellsworth",
+        "description": "It is a captivating novel that takes readers on a thrilling journey filled with mystery, suspense, and unexpected twists",
+        "price": 1344,
+        "category": "sports",
+        "searchKeywords": ["Book 100", "Author 100", "sports"],
+        "imageUrl": "https://static01.nyt.com/images/2015/05/23/sports/23sportsbooks-1/23sportsbooks-1-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+      },
+      {
+        "id": 22,
+        "title": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "description": "It provides valuable insights and practical techniques for improving interpersonal relationships, enhancing communication skills, and positively influencing others.",
+        "price": 2343,
+        "category": "motivational",
+        "searchKeywords": ["Book 100", "Author 100", "motivational"],
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610690998i/50439059.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "description": "It explores the mindset and principles necessary for achieving success, particularly in the realm of wealth and financial abundance.",
+        "price": 2343,
+        "category": "motivational",
+        "searchKeywords": ["Book 100", "Author 100", "motivational"],
+        "imageUrl": "https://m.media-amazon.com/images/I/71UypkUjStL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Choosing to Run",
+        "author": "Des Linden",
+        "description": "It  explores the transformative power of running and the personal journey of its protagonist",
+        "price": 2343,
+        "category": "sports",
+        "searchKeywords": ["Book 100", "Author 100", "sports"],
+        "imageUrl": "https://images.penguinrandomhouse.com/cover/9780593186640"
+      },
+      {
+        "id": 25,
+        "title": "It Will All Work Out: The Freedom of Letting Go",
+        "author": "Kevin Hart",
+        "description": "It is an empowering self-help book that explores the transformative power of surrendering control and embracing the art of letting go",
+        "price": 2343,
+        "category": "motivational",
+        "searchKeywords": ["Book 100", "Author 100", "motivational"],
+        "imageUrl": "https://m.media-amazon.com/images/I/51++Ge64VRL._SY346_.jpg"
+      },
+      {
+        "id": 26,
+        "title": "Educated",
+        "author": "Tara Westover",
+        "description": "It chronicles her remarkable journey from a childhood in rural Idaho, where she grew up in a strict and abusive household with no formal education, to eventually earning a Ph.D. from Cambridge University.",
+        "price": 2343,
+        "category": "educational",
+        "searchKeywords": ["educational", "Author 100", "educational"],
+        "imageUrl": "https://m.media-amazon.com/images/I/41iTM8LkxSL._SL500_.jpg"
+      },
+      {
+        "id": 27,
+        "title": "The Knowledge Gap",
+        "author": "Natalie Wexler",
+        "description": "",
+        "price": 2343,
+        "category": "educational",
+        "searchKeywords": ["Book 100", "Author 100", "educational"],
+        "imageUrl": "https://example.com/book100.jpg"
+      },
+      {
+        "id": 28,
+        "title": "Design For How People Learn",
+        "author": "Julie Dirksen",
+        "description": "It explores the principles of instructional design and how to create effective learning experiences",
+        "price": 2343,
+        "category": "educational",
+        "searchKeywords": ["Book 100", "Author 100", "educational"],
+        "imageUrl": "https://m.media-amazon.com/images/I/51M0cX78XnL._SL500_.jpg"
+      },
+      {
+        "id": 29,
+        "title": "Infinite Powers",
+        "author": "Steven Strogatz",
+        "description": "It explores the history, concepts, and applications of calculus, a branch of mathematics that plays a fundamental role in understanding the workings of the natural world.",
+        "price": 2343,
+        "category": "educational",
+        "searchKeywords": ["Book 100", "Author 100", "educational"],
+        "imageUrl": "https://media.wired.com/photos/5dfc0b15a03b9b0008afa1a0/master/w_1600%2Cc_limit/Science_books_9781328879981_hres.jpg"
+      },
+      {
+        "id": 30,
+        "title": "My First 100 Construction Words",
+        "author": "Chris Ferrie",
+        "description": "is a children's book designed to introduce young readers to the vocabulary and concepts related to construction and building",
+        "price": 2343,
+        "category": "educational",
+        "searchKeywords": ["Book 100", "Author 100", "educational"],
+        "imageUrl": "https://i0.wp.com/www.getepic.com/learn/wp-content/uploads/2021/04/th.jpeg?w=584&ssl=1"
+      },
+      {
+        "id": 31,
+        "title": "Data Science",
+        "author": "Leonard Deep",
+        "description": "",
+        "price": 2343,
+        "category": "educational",
+        "searchKeywords": ["Book 100", "Author 100", "educational"],
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:389/1*vEloRIpwtU0o658l3tiN2A.png"
+      }
+    ]
+  }
+    
