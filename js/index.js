@@ -208,8 +208,6 @@ document.getElementById('login-form').addEventListener('submit', function(event)
   } catch (error) {
     console.error("Error:", error);
   }
-  
-
   window.location.href = "pages/home.html";
   
 });
